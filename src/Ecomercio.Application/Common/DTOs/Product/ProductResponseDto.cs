@@ -1,0 +1,12 @@
+namespace Ecomercio.Application.Common.DTOs.Product;
+
+public record ProductResponseDto(
+    Guid Id,
+    string Name,
+    string Description,
+    decimal Price,
+    int Stock,
+    bool IsActive,
+    Guid CategoryId,
+    DateTime CreatedAt
+);

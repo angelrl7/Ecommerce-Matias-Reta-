@@ -1,0 +1,12 @@
+C:\Backend\Ecomercio\src\Ecomercio.Domain\bin\Debug\net10.0\Ecomercio.Domain.deps.json
+C:\Backend\Ecomercio\src\Ecomercio.Domain\bin\Debug\net10.0\Ecomercio.Domain.dll
+C:\Backend\Ecomercio\src\Ecomercio.Domain\bin\Debug\net10.0\Ecomercio.Domain.pdb
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.AssemblyInfoInputs.cache
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.AssemblyInfo.cs
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.sourcelink.json
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.dll
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\refint\Ecomercio.Domain.dll
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\Ecomercio.Domain.pdb
+C:\Backend\Ecomercio\src\Ecomercio.Domain\obj\Debug\net10.0\ref\Ecomercio.Domain.dll

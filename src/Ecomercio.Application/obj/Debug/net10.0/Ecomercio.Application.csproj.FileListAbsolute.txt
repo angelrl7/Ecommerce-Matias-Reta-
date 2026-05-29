@@ -1,0 +1,16 @@
+C:\Backend\Ecomercio\src\Ecomercio.Application\bin\Debug\net10.0\Ecomercio.Application.deps.json
+C:\Backend\Ecomercio\src\Ecomercio.Application\bin\Debug\net10.0\Ecomercio.Application.dll
+C:\Backend\Ecomercio\src\Ecomercio.Application\bin\Debug\net10.0\Ecomercio.Application.pdb
+C:\Backend\Ecomercio\src\Ecomercio.Application\bin\Debug\net10.0\Ecomercio.Domain.dll
+C:\Backend\Ecomercio\src\Ecomercio.Application\bin\Debug\net10.0\Ecomercio.Domain.pdb
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.csproj.AssemblyReference.cache
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.AssemblyInfoInputs.cache
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.AssemblyInfo.cs
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.csproj.CoreCompileInputs.cache
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.sourcelink.json
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomerci.A97FB097.Up2Date
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.dll
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\refint\Ecomercio.Application.dll
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\Ecomercio.Application.pdb
+C:\Backend\Ecomercio\src\Ecomercio.Application\obj\Debug\net10.0\ref\Ecomercio.Application.dll
