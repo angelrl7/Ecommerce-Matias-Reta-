@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecomercio.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73af53691067e6969fbfa2bfe31af421320b9938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd760e12b49adb4a8e8964634d6c63c4c3d1ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecomercio.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecomercio.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

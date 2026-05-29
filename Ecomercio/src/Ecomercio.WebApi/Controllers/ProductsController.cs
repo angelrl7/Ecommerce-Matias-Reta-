@@ -40,4 +40,12 @@ public class ProductsController : ControllerBase
         var result = await _mediator.Send(command);
         return CreatedAtAction(nameof(GetById), new { id = result.Id }, result);
     }
+
+    [Authorize(Roles = UserRoles.Admin)]
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(Guid id)
+    {
+        await _mediator.Send(new DeleteProductCommand(id));
+        return NoContent();
+    }
 }
