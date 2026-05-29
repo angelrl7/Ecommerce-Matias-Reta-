@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ecomercio.Application/Ecomercio.Application.csproj" />
+    <Project Path="src/Ecomercio.Domain/Ecomercio.Domain.csproj" />
+    <Project Path="src/Ecomercio.Infrastructure/Ecomercio.Infrastructure.csproj" />
+    <Project Path="src/Ecomercio.WebApi/Ecomercio.WebApi.csproj" />
+  </Folder>
+</Solution>
